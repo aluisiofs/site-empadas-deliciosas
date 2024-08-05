@@ -1,0 +1,60 @@
+/* Cores */
+.nav-yellow {
+    background-color: orange;
+}
+
+/* .color-red {
+    color: red;
+} */
+
+/* Espaçamentos */
+.m-t-30 {
+    margin-top: 30px;
+}
+
+.img-produto {
+    display: block;
+    margin: 0 auto;
+    width: 240px;
+}
+
+.table-orange * {
+    color: white !important;
+    background: orange !important;
+}
+/* Centralizar a tabela como a imagem */
+/* 
+table {
+    max-width: 240px;
+    display: block;
+    margin: 0 auto;
+} */
+
+.card-title  {
+    color: orange
+}
+
+/*.card-title-custom {
+    color: orange;
+} */
+
+.gap-6 {
+    gap: 64px;
+}
+
+.gap-7 {
+    gap: 80px;
+}
+
+.gap-8 {
+    gap: 150px; /* 96px */
+}
+
+.gap-9 {
+    gap: 300px; /* 112px */
+}
+
+.gap-10 {
+    gap: 500px; /* 128px */
+}
+
