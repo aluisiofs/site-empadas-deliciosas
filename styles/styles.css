@@ -1,6 +1,6 @@
 /* Cores */
 .nav-yellow {
-    background-color: orange;
+    background-color: rgb(255, 81, 0);
 }
 
 /* .color-red {
@@ -18,12 +18,9 @@
     width: 240px;
 }
 
-.container-5 {
-}
-
 .table-orange * {
     color: white !important;
-    background: orange !important;
+    background:rgb(255,81 0)!important;
 }
 /* Centralizar a tabela como a imagem */
 /* 
@@ -34,11 +31,11 @@ table {
 } */
 
 .card-title  {
-    color: orange
+    color: rgb(255,81,0),
 }
 
 /*.card-title-custom {
-    color: orange;
+    color: rgb();
 } */
 
 .gap-6 {
